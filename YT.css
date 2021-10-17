@@ -1,0 +1,13 @@
+body{
+    background: rgb(27, 26, 26);
+}
+
+section {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: wheat;
+    font-size: 5rem;
+}

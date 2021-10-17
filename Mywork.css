@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+
+ a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    float: center;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    color: whitesmoke;
+}

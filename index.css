@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+    font-size: 300%;
+    font-weight: bolder;
+    background: lightblue;
+    color: white;
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+nav {
+    background: grey;
+    overflow: hidden;
+
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    float: left;
+    
+}
+
+section{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.hey {
+    padding-top: 10rem;
+}
+
+
